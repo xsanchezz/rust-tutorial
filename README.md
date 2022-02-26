@@ -1,2 +1,2 @@
 # rust-tutorial
- Practice with Rust code
+ My practice with Rust language.
